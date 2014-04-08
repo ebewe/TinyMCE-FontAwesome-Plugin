@@ -1,11 +1,11 @@
-.mce-fontawesome-panel .fa {
+.mce-fontawesome-panel .icon-fa {
 	font-family:FontAwesome !important;
 	cursor:pointer;
 	padding:6px;
 	border-radius:1px;
 }
 
-.mce-fontawesome-panel .fa:hover {
+.mce-fontawesome-panel .icon-fa:hover {
 	background-color:#e3e3e3;
 }
 
